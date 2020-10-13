@@ -1,4 +1,7 @@
 # Procedural Gen
+
+![A generated terrain](generated-terrain.png)
+
 Este projeto foi feito para praticar geração procedural com a Unity. Nele, há um gerador de mesh e um de terreno, ambos fazendo uso de um gerador de perlin noise. Há também um conjunto de spawnadores, para spawnar objetos em uma determinada área.
 
 Feito por Gabriel Paes Landim de Lucena. 
